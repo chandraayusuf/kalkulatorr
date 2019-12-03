@@ -16,6 +16,17 @@ func outputHelper() {
 	fmt.Println("Contoh = 1 + 1")
 }
 
-func main() {
-
-}
+func kalkulator() {
+	var num1 float64
+	var num2 float64
+	var result float64
+	var operasi string
+	var tempArray[] string
+	
+	num1 = 0
+	num2 = 0
+	result = 0
+	operasi = "+"
+	
+	
+	
